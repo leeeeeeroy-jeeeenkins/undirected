@@ -16,7 +16,7 @@ To create a new Playbook, we select '+ New Playbook.' Drift offers templates - a
 
 ## Wiring the Words
 
-Crafting those conversation starters felt like writing a play. Our first task: create engaging messages. We brainstormed witty openers that didn’t sound too robotic and filled them into the chatbot sequences. There’s magic in personalization, so we made sure to include variables like `{{first_name}}` to give it that human touch.
+Crafting those conversation starters felt like writing a play. Our first task: create engaging messages. We brainstormed witty openers that didn’t sound too robotic and filled them into the chatbot sequences. There’s magic in personalization, so we made sure to include variables like first_name to give it that human touch.
 
 Customizing responses in Drift was surprisingly enjoyable. Like customizing a pizza with just the right amount of toppings. It's all about balance. We played around: "Hi there, {{first_name}}, looking for some help?" versus "Need any assistance today, {{first_name}}?" Words can make or break a conversation, even with bots.
 
