@@ -37,7 +37,7 @@ The first time we sent out referral emails, they were as personal as a store-bou
 Ignoring personalization is akin to ignoring the smallest brush strokes in a painting—they make a world of difference. Our emails were cold, automated, devoid of warmth and a personal touch. Needless to say, the response was lukewarm at best.
 
 ### The Fix
-Sprinkle some warmth and familiarity into those emails. Dive deeper than the “Hey {FirstName}!” Begin a conversation that feels almost like a tête-à-tête. Address them by name, weave in personalized content, and create an experience that's irresistibly inviting.
+Sprinkle some warmth and familiarity into those emails. Dive deeper than the “Hey FirstName!” Begin a conversation that feels almost like a tête-à-tête. Address them by name, weave in personalized content, and create an experience that's irresistibly inviting.
 
 ## Forgetting the Customer Experience
 
