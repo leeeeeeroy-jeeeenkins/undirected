@@ -21,10 +21,6 @@ Remember Sarah, our software guru? Her desk was piled higher than a Jenga game a
 2. **Choose your licenses** wisely—Creator, Explorer, Viewer. It's the rock-paper-scissors of Tableau world.
 3. **Download the Tableau SDK** from the official site. Make Sarah proud, will you?
 
-`bash
-# Hypothetical download command
-wget tableau-sdk.zip
-`
 
 ## The Second Bridge: Setting Up Your Workspace
 
@@ -38,13 +34,13 @@ The ultimate bonding activity for techies and their machines—configuring the e
 2. **Install Python or Java**, or your preferred language. Oh, Java, we've always had a love-hate relationship, haven't we?
 3. **Parasite motherboard or mother soul?** Connect to the Tableau Server.
 
-`python
+```python
 import tableausdk.*
 
 # Initializing Tableau Server
 server = tableausdk.server(name="your_server_name")
 server.connect("your_credentials")
-`
+```
 
 ### Handling APIs Like a Pro
 
@@ -54,10 +50,10 @@ API—three letters but a universe to explore. Our friend Tom claimed diving int
 2. **Familiarize** with REST APIs—it’s our new language.
 3. **Create a session ID** - our breadcrumb trail.
 
-`bash
+```bash
 # Example API session creation
 curl -X POST https://tableau.server/api/session -H "Content-Type: application/json" -d '{"credentials": {"name":"user", "password":"p@ssword"}}'
-`
+```
 
 ## Journey into the Heart: Embedding Tableau
 
@@ -102,4 +98,4 @@ Errors popped up, uninvited guests crashing the party. Solutions, however, were 
 
 Arriving at the end of any journey spurs emotions—relief for the procrastinator in us, a bittersweet farewell to the adventure itself. Remember our seemingly endless coffee hours turning into lessons of a lifetime? Integrating Tableau Embedded Analytics isn’t merely a task; it’s an exploration, a discovery, that leaves us richer in understanding—born not from mechanical proficiency, but from relational interaction with both data and humans involved. Much like friendship, it grows better with time. And yes, there will be cafes where coffee is surprisingly ordinary, yet you cherish it purely for the company.
 
-So, unplug that charger for a bit, reminisce on our journey, and perhaps, plan for the next great adventure across the digital frontiers together. Now, who's up for another virtual ride? Cheers to us, data whisperers! 🥂
+So, unplug that charger for a bit, reminisce on our journey, and perhaps, plan for the next great adventure across the digital frontiers together. Now, who's up for another virtual ride? Cheers to us, data whisperers! 
